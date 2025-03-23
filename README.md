@@ -25,7 +25,7 @@ Learn more at: 👉 [amxela.com](https://amxela.com)
 
 If you found a bug, have a feature request, or need help:
 
-- 🐞 [Open an Issue](https://github.com/YOUR-USERNAME/amxela-public/issues)
+- 🐞 [Open an Issue](https://github.com/GreyWallConsulting/AMXELA-Public/issues)
 - ✉️ Email: [support@amxela.com](mailto:support@amxela.com)
 
 ---
